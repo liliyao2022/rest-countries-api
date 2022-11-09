@@ -1,6 +1,6 @@
 # REST Countries API with Color Theme Switcher
 
-This is my solution to the [Country Theme Switcher and REST Filter Challenge](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca/hub/rest-countries-api-with-color-theme-switcher-T_Jm3Jq2Uy).
+This is my solution to the [Country Theme Switcher and REST Filter Challenge](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca).
 
 ## The Live site
 https://liliyao2022.github.io/rest-countries-api/
