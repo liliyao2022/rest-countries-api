@@ -1,0 +1,30 @@
+.header-container {
+  padding: 30px var(--mobile-inline);
+  margin-bottom: 3px;
+
+  @media (min-width: 768px) {
+    padding-inline: var(--desktop-inline);
+  }
+
+  .header-text {
+    display: flex;
+    justify-content: space-between;
+    max-width: var(--max-width);
+
+    @media (min-width: 1024px) {
+      margin: auto;
+    }
+  }
+
+  .dark-mode-container {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    cursor: pointer;
+  }
+
+  .header-title {
+    font-weight: 800;
+    font-size: 18px;
+  }
+}

@@ -1,0 +1,35 @@
+.country-list-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px;
+  padding-bottom: 60px;
+  padding-inline: var(--mobile-inline);
+  max-width: var(--max-width);
+
+  @media (min-width: 600px) {
+    padding-inline: var(--desktop-inline);
+    flex-direction: row;
+  }
+
+  @media (min-width: 1024px) {
+    margin: auto;
+    // justify-content: space-between;
+  }
+
+  .loading-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+  }
+
+  .loading-text {
+    font-size: 20px;
+  }
+}
