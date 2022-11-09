@@ -1,6 +1,6 @@
 {
   "homepage": "http://liliyao2022.github.io/rest-countries-api",
-  "name": "country-filter-app",
+  "name": "country-finder-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
