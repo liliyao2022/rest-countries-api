@@ -2,6 +2,8 @@
 
 This is my solution to the [Country Theme Switcher and REST Filter Challenge](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca/hub/rest-countries-api-with-color-theme-switcher-T_Jm3Jq2Uy).
 
+## The Live site
+https://liliyao2022.github.io/rest-countries-api/
 
 ## The Challenge
 
